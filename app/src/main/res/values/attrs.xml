@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RepoElement">
+        <attr name="showImage" format="boolean" />
+        <attr name="imageSrc" format="string" />
+    </declare-styleable>
+</resources>
